@@ -1,3 +1,11 @@
 #heading{
-    background-color: aqua;
+    background-color: rgb(50, 192, 192);
+    
+}
+body{
+    background-color: black;
+}
+
+#root{
+    background-color: antiquewhite;
 }
